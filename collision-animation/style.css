@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+#canvas1 {
+  border: 3px solid black;
+  background: black;
+  height: 700px;
+  width: 500px;
+}
+
+/* #canvas1 {
+  border: 3px solid black;
+  position: absolute;
+  height: 700px;
+  width: 500px;
+  background: black;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
